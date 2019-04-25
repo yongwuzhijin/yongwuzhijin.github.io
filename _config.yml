@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: /
-url: yongwuzhijin.github.io
+baseurl: 
+url: https://yongwuzhijin.github.io
 date_format: "ordinal"
 title: Jace’s Blog
 subtitle: "一个前端小白的日常"
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: yongwuzhijin/yongwuzhijin.github.io
 
 # ---------------- #
 #      Comments    #
